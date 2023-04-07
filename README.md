@@ -1,1 +1,1 @@
-# Open Source RPG sandbox Minecraft Clone Game
+# Open Source RPG sandbox Voxel Game
